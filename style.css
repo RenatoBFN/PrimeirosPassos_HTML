@@ -1,0 +1,37 @@
+body {
+    background-color: blue;
+}
+
+#title, .subtitle{
+    color: black;
+    background-color: red;
+}
+
+.post_title{
+    font-size: 16px;
+    font-style: italic;
+    background-color: black;
+    color: white;
+    margin-top: 15px;
+}
+
+.post {
+    background-color: pink;
+    padding: 10px;
+    border: 3px solid cyan;
+    margin: 30px;
+}
+
+.photo {
+    border-radius: 50%;
+    margin-top: 30px;
+}
+
+.text {
+    font-family: 'Lucida Sans Regular';
+    text-transform: capitalize;
+}
+
+.listagem {
+    list-style-type: "\1F44D";
+}
