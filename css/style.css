@@ -1,0 +1,33 @@
+body{
+    font: 20px Arial, sans-serif;
+    background-color: #3BE44D;
+}
+
+.navbar {
+    background-color: #3BE44D;
+}
+
+.caracteristicas{
+    background-color: #3BE44D;
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.espaco {
+    padding-bottom: 30px;
+}
+
+.pagcarct {
+    text-align: justify;
+}
+
+.especie {
+    background-color: #3BE44D;
+}
+
+.img{
+    border-radius: 50%;
+}

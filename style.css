@@ -4,7 +4,7 @@ body {
 
 #title, .subtitle{
     color: black;
-    background-color: red;
+    background-color: #3BE44D;
 }
 
 .post_title{
@@ -30,6 +30,7 @@ body {
 .text {
     font-family: 'Lucida Sans Regular';
     text-transform: capitalize;
+    text-align: justify;
 }
 
 .listagem {
