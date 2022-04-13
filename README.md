@@ -1,4 +1,4 @@
-# Primeiros passos HTML & CSS
+# Bootcamp - HTML/CSS3
 
 - [x] Introdução ao curso de HTML
 - [x] Entendendo o que é semântica
@@ -9,4 +9,9 @@
 - [x] Estilizando elementos, textos e listas
 - [x] Dimensão e alinhamento
 
-- [ ] Introdução Bootstrap
+- [x] Introdução Bootstrap
+- [x] Aprenda a utilizar o Bootstrap na sua página web
+- [x] Crie containers personalizados para o seu site
+- [x] Trabalhando com imagens dentro do containers
+- [x] Crie lista de navegação com imagens em seu projeto
+- [x] Crie lista de navegação dentro de containers utilizando imagens
